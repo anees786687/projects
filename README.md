@@ -1,4 +1,3 @@
 # projects
 Hello
-This is Sparda!
-Dominum Deum summum
+Ecce Sparta! servi Deus, qui Creator et Dominus Summa
